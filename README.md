@@ -3,18 +3,22 @@
 Ciclo 3 mintic 2022
 
 Proyecto 1 ciclo 3 https://github.com/SergioDeLaCruzAcosta/CineColombiaWeb.git // Primer proyecto ciclo 3 mision tic Uninorte
+
 Proyecto 2 ciclo 3 https://github.com/SergioDeLaCruzAcosta/EntregaDePaquetesChat.git // Segundo proyecto ciclo 3 mision tic Uninorte
 
-===========================================================================================================================================================
+=======================================================================================================================================================
 
 Ciclo 4 mintic 2022
 
 Proyecto 1 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ConversorDeDivisa.git // Primer proyecto, conversor de moneda, pero Colombiano / dólar / euro
+
 Proyecto 2 ciclo 4 https://github.com/SergioDeLaCruzAcosta/CarritoDeCompras.git // Segundo proyecto, carrito de compra genérico para una tienda virtual
+
 Proyecto 3 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ChatUninorte.git // Tercer proyecto, aplicación para chatear; conceptos básicos
+
 Proyecto 4 ciclo 4 https://github.com/SergioDeLaCruzAcosta/GPSProyectoFinalUninorte.git // Proyecto final localización GPS de un carrito de compras
 
-===========================================================================================================================================================
+=======================================================================================================================================================
 
 Proyectos personales
 
