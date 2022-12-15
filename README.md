@@ -6,8 +6,7 @@ Proyecto 1 ciclo 3 https://github.com/SergioDeLaCruzAcosta/CineColombiaWeb.git /
 
 Proyecto 2 ciclo 3 https://github.com/SergioDeLaCruzAcosta/EntregaDePaquetesChat.git // Segundo proyecto ciclo 3 mision tic Uninorte
 
-=======================================================================================================================================================
-
+=================================================================================================================
 Ciclo 4 mintic 2022
 
 Proyecto 1 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ConversorDeDivisa.git // Primer proyecto, conversor de moneda, pero Colombiano / dólar / euro
