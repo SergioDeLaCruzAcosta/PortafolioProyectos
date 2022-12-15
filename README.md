@@ -10,7 +10,7 @@ Proyecto 2 ciclo 3 https://github.com/SergioDeLaCruzAcosta/EntregaDePaquetesChat
 
                                                   --Ciclo 4 mintic 2022 Uninorte--
 
-Proyecto 1 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ConversorDeDivisa.git // Primer proyecto, conversor de moneda, pero Colombiano / dólar / euro
+Proyecto 1 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ConversorDeDivisa.git // Primer proyecto, conversor de moneda, peso Colombiano / dólar / euro
 
 Proyecto 2 ciclo 4 https://github.com/SergioDeLaCruzAcosta/CarritoDeCompras.git // Segundo proyecto, carrito de compra genérico para una tienda virtual
 
@@ -20,6 +20,6 @@ Proyecto 4 ciclo 4 https://github.com/SergioDeLaCruzAcosta/GPSProyectoFinalUnino
 
 ============================================================================================
 
-Proyectos personales
+                                                       --Proyectos personales--
 
 Proyecto: Monitorizo y riego mi jardin; en desarrollo, implementacion de una aplicacion movil para conexion con un sistema de monitorizacion y riego automatico de un jardin con 6 sectores grupales de plantas que requieran condiciones similares de humedad usando como sistema de control un arduino.
