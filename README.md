@@ -1,12 +1,12 @@
 # PortafolioProyectos
 
-                                        --Ciclo 3 mintic 2022 Uninorte--
+                                     --Ciclo 3 mintic 2022 Uninorte--
 
 Proyecto 1 ciclo 3 https://github.com/SergioDeLaCruzAcosta/CineColombiaWeb.git // Primer proyecto ciclo 3 mision tic Uninorte
 
 Proyecto 2 ciclo 3 https://github.com/SergioDeLaCruzAcosta/EntregaDePaquetesChat.git // Segundo proyecto ciclo 3 mision tic Uninorte
 
-====================================================================
+===================================================================
 
                                                   --Ciclo 4 mintic 2022 Uninorte--
 
