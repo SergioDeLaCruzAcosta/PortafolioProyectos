@@ -8,7 +8,7 @@ Proyecto 2 ciclo 3 https://github.com/SergioDeLaCruzAcosta/EntregaDePaquetesChat
 
 ============================================================================================
 
-Ciclo 4 mintic 2022
+                                      Ciclo 4 mintic 2022
 
 Proyecto 1 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ConversorDeDivisa.git // Primer proyecto, conversor de moneda, pero Colombiano / dólar / euro
 
@@ -18,7 +18,7 @@ Proyecto 3 ciclo 4 https://github.com/SergioDeLaCruzAcosta/ChatUninorte.git // T
 
 Proyecto 4 ciclo 4 https://github.com/SergioDeLaCruzAcosta/GPSProyectoFinalUninorte.git // Proyecto final localización GPS de un carrito de compras
 
-=======================================================================================================================================================
+============================================================================================
 
 Proyectos personales
 
